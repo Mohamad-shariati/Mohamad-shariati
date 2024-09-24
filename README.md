@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohamad-shariati
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on games
-- 📫 How to reach me [https://t.me/mohamad_shariati](Telegram)
+- 👀 I’m interested in AI and AGI
+- 🌱 I’m currently learning machine-learning
+- 💞️ I’m looking to collaborate on ai
+- 📫 How to reach me [https://t.me/muhammadshariati](Telegram)
 
 <!---
 Mohamad-shariati/Mohamad-shariati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
