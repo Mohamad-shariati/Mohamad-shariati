@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamad-shariati
-- 👀 I’m interested in AI and AGI
-- 🌱 I’m currently learning machine-learning
+- 👀 I’m interested in AI and ML
+- 🌱 I am studying master's Artificial Intelligence Engineering at IAU
 - 💞️ I’m looking to collaborate on ai
 - 📫 How to reach me [https://t.me/muhammadshariati](Telegram)
 
